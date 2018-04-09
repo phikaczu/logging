@@ -1,0 +1,9 @@
+# VS files
+/.vs
+/*.VC.db
+/Debug
+*.opendb
+*.TMP
+/Release
+/Debug
+/x64
